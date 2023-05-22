@@ -9,8 +9,9 @@ Please note that the original API documentation can be found at https://api.um.w
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [API List](#api-list)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [Useful links](#useful-links)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction
 
@@ -31,6 +32,11 @@ To get started with the APIs provided by the "Dane po Warszawsku" project, you n
 The following APIs are available through the "Dane po Warszawsku" project:
 
 1. [Warsaw City Construction Works API](api_documentation/construction_works.md): Offers access to data related to construction works taking place on various streets within the city of Warsaw.
+
+## Useful links
+- [Postman](https://documenter.getpostman.com/view/25779288/2s93m34jCs) - the API documentation in Postman
+- [API UM Warszawa](https://api.um.warszawa.pl/) - the original API documentation
+- [Warszawska Platforma IoT](https://iot.warszawa.pl/) - interactive viewer for selected data sources
 
 ## Contributing
 
