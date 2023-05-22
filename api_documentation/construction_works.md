@@ -1,5 +1,7 @@
 ## API Documentation
 
+[Original PDF](https://api.um.warszawa.pl/files/dbe4a003-69c4-43da-b3d8-391baea5d031.pdf)
+
 This document provides information about the Warsaw City Construction Works API, which offers access to data related to construction works taking place on various streets within the city of Warsaw.
 
 ### Base URL

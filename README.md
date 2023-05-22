@@ -30,7 +30,7 @@ To get started with the APIs provided by the "Dane po Warszawsku" project, you n
 
 The following APIs are available through the "Dane po Warszawsku" project:
 
-1. [Warsaw City Road Construction API](api_documentation/construction_works.md): Offers access to data related to construction works taking place on various streets within the city of Warsaw.
+1. [Warsaw City Construction Works API](api_documentation/construction_works.md): Offers access to data related to construction works taking place on various streets within the city of Warsaw.
 
 ## Contributing
 
